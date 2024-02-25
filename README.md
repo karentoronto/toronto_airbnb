@@ -20,3 +20,4 @@
 
 ## Link to Tableau Storyboard.
 ### https://public.tableau.com/app/profile/karen.zhou3378/viz/TorontoAirbnbDataAnalysis-February2024/Story1 
+### The storyboard contains only the data relevant to the final results.
