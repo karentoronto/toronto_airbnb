@@ -1,4 +1,4 @@
-## **Project Description **
+**Project Description**
 ### This project analyzes the Airbnb rental market in Toronto for a prospective client seeking to purchase a propery for Airbnb rental. The analysis will be presented in the form of an interactive Tableau storyboard showcasing the results of an exploratory analysis in Python.  
 
 ## **Details of the data source(s)**
